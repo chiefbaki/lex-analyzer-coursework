@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671446104 source:e:\translator15\translator15\main.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<string>
+
